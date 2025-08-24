@@ -70,7 +70,7 @@ Para este ejemplo práctico vamos a unir dos commits cuyo objetivo fue parecido.
 
 ![[rebase_2.png]]
 
-- Unir los 4 primeros commits a partir del HEAD
+- Seleccionar los 4 primeros commits a partir del HEAD
 ```bash
 git rebase -i HEAD~4
 ```
@@ -130,6 +130,8 @@ git checkout -- README.md
 De esta manera, habrá vuelto a su estado original como si no hubieramos hecho nada.
 
 ![[rebase_11.png]]
+
+### Separar 1 commit en 2 commit's
 
 Caso: Creamos un commit con esos dos archivos llamado "Commits", pero **queremos realizar mejor commits independientes**
 

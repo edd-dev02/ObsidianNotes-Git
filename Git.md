@@ -23,4 +23,17 @@
 *** 
 17. [[Github Remote]]
 18. [[Push a Github]]
+19. [[Push de los Tag's al repositorio]]
+20. [[Pull de los últimos cambios del repositorio]]
+21. [[Clonar un repositorio]]
+22. [[Subir cambios locales al repositorio remoto]]
+23. [[Git Pull Rebase]]
+24. [[Pull Request - Creando archivos]]
+25. [[Git fetch]]
+26. [[Comentarios en los commits]]
+27. [[Flujo de trabajo con Github]]
+
+### Github Avanzado
+***
+
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repositorio.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repositorio"
+              "title": "Git"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "4b1606e011903e26",
@@ -161,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Crear nueva base": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -171,39 +171,42 @@
   },
   "active": "df828d24421ad22f",
   "lastOpenFiles": [
+    "Flujo de trabajo con Github.md",
     "Git.md",
-    "Push a Github.md",
-    "img/github_4.jpeg",
-    "img/github_3.png",
-    "img/github_2.jpeg",
-    "img/github_1.jpeg",
-    "Github Remote.md",
+    "Comentarios en los commits.md",
+    "img/commit_4.png",
+    "img/commit_3.png",
+    "img/commit_2.png",
+    "img/commit_1.png",
+    "Git fetch.md",
+    "img/fetch_3.png",
+    "img/fetch_2.png",
+    "img/fetch_1.png",
+    "Pull Request - Creando archivos.md",
+    "img/pr_8.png",
+    "img/pr_7.png",
+    "img/pr_6.png",
+    "Git Pull Rebase.md",
+    "Subir cambios locales al repositorio remoto.md",
     "Rebase.md",
-    "Stash.md",
-    "img/rebase_15.png",
-    "img/rebase_14.png",
-    "img/rebase_13.png",
-    "img/rebase_12.png",
-    "img/rebase_11.png",
-    "img/rebase_10.png",
-    "Tags.md",
-    "Ramas.md",
-    "Repositorio.md",
-    "Intro.md",
-    "Conflictos en el merge.md",
     "Comodínes.md",
+    "Autenticación.md",
+    "Intro.md",
+    "Clonar un repositorio.md",
+    "Push a Github.md",
+    "Pull de los últimos cambios del repositorio.md",
+    "Github Remote.md",
+    "Push de los Tag's al repositorio.md",
+    "Stash.md",
+    "Tags.md",
+    "Conflictos en el merge.md",
+    "Ramas.md",
+    "Ignorando archivos que no deseamos.md",
+    "Viajes en el tiempo, resets y reflog.md",
+    "Repositorio.md",
     "Actualizar y revertir commits.md",
     "Estrategia recursiva.md",
-    "Ignorando archivos que no deseamos.md",
     "Cambiar el nombre y eliminar archivos fuera de git.md",
-    "Cambiar el nombre y eliminar archivos mediante git.md",
-    "Viajes en el tiempo, resets y reflog.md",
-    "Diferencias entre versiones.md",
-    "Alias.md",
-    "Autenticación.md",
-    "Cambiar el.md",
-    "img",
-    "Carta.md",
-    "Bienvenido.md"
+    "img"
   ]
 }
