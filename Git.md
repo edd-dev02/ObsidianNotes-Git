@@ -35,5 +35,11 @@
 
 ### Github Avanzado
 ***
-
+28. [[Fork, Clone y Colaboraciones]]
+29. [[Aceptar Pull Request]]
+30. [[Actualizando nuestro Fork]]
+31. [[Flujos de trabajo]]
+32. [[Revisando el trabajo de otros compañeros]]
+33. [[Limpiar ramas que ya no son necesarias]]
+34. [[Recuperar alguna rama del remoto]]
 

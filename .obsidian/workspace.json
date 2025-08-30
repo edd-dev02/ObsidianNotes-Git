@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "44e9cde690d08918",
+        "id": "923e612cfb5ad644",
         "type": "tabs",
         "children": [
           {
-            "id": "df828d24421ad22f",
+            "id": "c2980087bf278506",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actualizar y revertir commits.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Actualizar y revertir commits"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -169,44 +165,43 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "df828d24421ad22f",
+  "active": "c2980087bf278506",
   "lastOpenFiles": [
+    "Limpiar ramas que ya no son necesarias.md",
+    "Recuperar alguna rama del remoto.md",
+    "img/restore_5.png",
+    "img/restore_4.png",
+    "img/restore_3.png",
+    "img/restore_2.png",
+    "img/restore_!.png",
     "Git.md",
+    "Ramas.md",
+    "Comodínes.md",
+    "img/limpieza_2.png",
+    "img/limpieza_1.png",
+    "Cambiar el.md",
+    "Revisando el trabajo de otros compañeros.md",
+    "img/revisiones_5.png",
+    "img/revisiones_4.png",
+    "img/revisiones_3.png",
+    "Flujos de trabajo.md",
+    "Alias.md",
+    "Push de los Tag's al repositorio.md",
+    "Tags.md",
+    "Push a Github.md",
+    "Github Remote.md",
+    "Repositorio.md",
+    "Actualizando nuestro Fork.md",
+    "Git fetch.md",
+    "Clonar un repositorio.md",
+    "Aceptar Pull Request.md",
+    "Fork, Clone y Colaboraciones.md",
+    "Actualizar y revertir commits.md",
     "Rebase.md",
     "Flujo de trabajo con Github.md",
     "Comentarios en los commits.md",
-    "img/commit_4.png",
-    "img/commit_3.png",
-    "img/commit_2.png",
-    "img/commit_1.png",
-    "Git fetch.md",
-    "img/fetch_3.png",
-    "img/fetch_2.png",
-    "img/fetch_1.png",
     "Pull Request - Creando archivos.md",
-    "img/pr_8.png",
-    "img/pr_7.png",
-    "img/pr_6.png",
     "Git Pull Rebase.md",
-    "Subir cambios locales al repositorio remoto.md",
-    "Comodínes.md",
-    "Autenticación.md",
-    "Intro.md",
-    "Clonar un repositorio.md",
-    "Push a Github.md",
-    "Pull de los últimos cambios del repositorio.md",
-    "Github Remote.md",
-    "Push de los Tag's al repositorio.md",
-    "Stash.md",
-    "Tags.md",
-    "Conflictos en el merge.md",
-    "Ramas.md",
-    "Ignorando archivos que no deseamos.md",
-    "Viajes en el tiempo, resets y reflog.md",
-    "Repositorio.md",
-    "Actualizar y revertir commits.md",
-    "Estrategia recursiva.md",
-    "Cambiar el nombre y eliminar archivos fuera de git.md",
     "img"
   ]
 }

@@ -35,3 +35,9 @@ git config --global alias.lg "log --graph --abbrev-commit --decorate --format=fo
 
 ![[alias_3.png]]
 
+>Alias para mostrar la rama en un `status` short
+
+```bash
+git config --global alias.s "status -sb"
+```
+
