@@ -19,7 +19,7 @@
 15. [[Stash]]
 16. [[Rebase]]
 
-### Github
+### GitHub
 *** 
 17. [[Github Remote]]
 18. [[Push a Github]]
@@ -33,7 +33,7 @@
 26. [[Comentarios en los commits]]
 27. [[Flujo de trabajo con Github]]
 
-### Github Avanzado
+### GitHub Avanzado
 ***
 28. [[Fork, Clone y Colaboraciones]]
 29. [[Aceptar Pull Request]]
@@ -42,4 +42,12 @@
 32. [[Revisando el trabajo de otros compañeros]]
 33. [[Limpiar ramas que ya no son necesarias]]
 34. [[Recuperar alguna rama del remoto]]
+
+### GitHub Issues, MileStones y Colaboradores
+***
+35. [[GitHub Issues]]
+36. [[Labels]]
+37. [[Milestones]]
+38. [[Agregando colaboradores al repositorio]]
+
 

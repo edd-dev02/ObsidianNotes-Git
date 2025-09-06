@@ -11,10 +11,28 @@
             "id": "c2980087bf278506",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Git"
+            }
+          },
+          {
+            "id": "7e6976220987bd4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agregando colaboradores al repositorio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Agregando colaboradores al repositorio"
             }
           }
         ]
@@ -167,23 +185,31 @@
   },
   "active": "c2980087bf278506",
   "lastOpenFiles": [
-    "Limpiar ramas que ya no son necesarias.md",
-    "Recuperar alguna rama del remoto.md",
-    "img/restore_5.png",
-    "img/restore_4.png",
-    "img/restore_3.png",
-    "img/restore_2.png",
-    "img/restore_!.png",
+    "Agregando colaboradores al repositorio.md",
+    "img/colaborar_6.png",
+    "img/colaborar_5.png",
+    "img/colaborar_4.png",
+    "img/colaborar_3.png",
+    "img/colaborar_2.png",
+    "img/colaborar_1.png",
     "Git.md",
+    "Milestones.md",
+    "img/milestones_4.png",
+    "img/milestones_3.png",
+    "img/milestones_2.png",
+    "img/milestones_1.png",
+    "Git Pull Rebase.md",
     "Ramas.md",
-    "Comodínes.md",
-    "img/limpieza_2.png",
-    "img/limpieza_1.png",
-    "Cambiar el.md",
+    "Estrategia recursiva.md",
+    "Labels.md",
+    "Limpiar ramas que ya no son necesarias.md",
     "Revisando el trabajo de otros compañeros.md",
-    "img/revisiones_5.png",
-    "img/revisiones_4.png",
-    "img/revisiones_3.png",
+    "Git fetch.md",
+    "Diferencias entre versiones.md",
+    "GitHub Issues.md",
+    "Recuperar alguna rama del remoto.md",
+    "Comodínes.md",
+    "Cambiar el.md",
     "Flujos de trabajo.md",
     "Alias.md",
     "Push de los Tag's al repositorio.md",
@@ -192,16 +218,8 @@
     "Github Remote.md",
     "Repositorio.md",
     "Actualizando nuestro Fork.md",
-    "Git fetch.md",
     "Clonar un repositorio.md",
     "Aceptar Pull Request.md",
-    "Fork, Clone y Colaboraciones.md",
-    "Actualizar y revertir commits.md",
-    "Rebase.md",
-    "Flujo de trabajo con Github.md",
-    "Comentarios en los commits.md",
-    "Pull Request - Creando archivos.md",
-    "Git Pull Rebase.md",
     "img"
   ]
 }
